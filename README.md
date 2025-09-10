@@ -10,10 +10,8 @@ Our primary goals are:
 - ☁️ **Migrating the data warehouse to Azure Cloud**, leveraging cloud services for better scalability and advanced analytics.
 - 📊 **Developing interactive dashboards** to provide insights into user behavior, bike usage, station performance, and financial metrics.
 
-Relation conceptual and logical ERD
-<table><tr><td><img src="https://github.com/layashreeadepu/BikeFlow-Analytics/blob/483a874582e4b9814b0f52eabed9d4065ea99061/bike_share_v1-3.jpg"></td><td><img src="https://github.com/layashreeadepu/BikeFlow-Analytics/blob/60dcb3240bd805dda9f8b53a9f1a92b00f008b6a/bike_share_v2.jpg"></td></tr></table>
-Multidim conceptual diagram
-<img src="https://github.com/layashreeadepu/BikeFlow-Analytics/blob/5e7b1f7b964023c8389c608a5579c85ff41e6b4f/bike_share_v3.jpg">
+MultiDim diagram
+<table><tr><td><img src="https://github.com/layashreeadepu/BikeFlow-Analytics/blob/c67daadcb96a834c2594a33eafd7b802333c268d/bike_share_final_model.jpg">
 
 ## 🧩 Project Components
 ### 1. **Data Warehouse Design**
