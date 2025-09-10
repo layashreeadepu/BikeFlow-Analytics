@@ -10,13 +10,13 @@ Our primary goals are:
 - ☁️ **Migrating the data warehouse to Azure Cloud**, leveraging cloud services for better scalability and advanced analytics.
 - 📊 **Developing interactive dashboards** to provide insights into user behavior, bike usage, station performance, and financial metrics.
 
-MultiDim diagram
-<table><tr><td><img src="https://github.com/layashreeadepu/BikeFlow-Analytics/blob/c67daadcb96a834c2594a33eafd7b802333c268d/bike_share_final_model.jpg">
-
 ## 🧩 Project Components
 ### 1. **Data Warehouse Design**
    - We’ve created a complex **Entity Relationship Diagram (ERD)** featuring key entities like Users, Trips, Bikes, Stations, and Weather. Additional tables for Subscriptions, Feedback, and Maintenance make the schema comprehensive.
    - 📐 Dimensions, hierarchies, and measures are defined for multi-perspective analysis.
+
+MultiDim diagram
+<table><tr><td><img src="https://github.com/layashreeadepu/BikeFlow-Analytics/blob/c67daadcb96a834c2594a33eafd7b802333c268d/bike_share_final_model.jpg">
 
 ### 2. **On-Premise Integration with Talend**
    - **ETL Processes**: Talend is used to extract data from source systems, transform it according to business rules, and load it into the data warehouse.
