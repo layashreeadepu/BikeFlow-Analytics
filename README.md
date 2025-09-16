@@ -23,15 +23,10 @@ MultiDim diagram
    - **Data Sources**: We are integrating data related to bike usage, weather, payments, maintenance, and user feedback to create a centralized data source.
    - 🛠️ Talend jobs handle the data integration workflow on-premise.
 
-### 3. **Cloud Migration to Azure**
-   - Following on-premise integration, the system will be migrated to **Azure**.
-   - **Azure Services**: We’ll use tools like **Azure Data Factory**, **Azure Synapse Analytics**, and **Azure SQL Database** to replicate the data warehouse and handle large data volumes.
-   - 🚀 **Scalability & Analytics**: Migration to Azure allows for better scalability and real-time insights through cloud-based dashboards.
-
 ## 📈 Dimensions, Hierarchies, and Measures
 To enable a rich analytical framework, our data warehouse includes:
 - **Dimensions**: Date/Time, User, Station, Bike, Trip, Weather, etc.
-- **Hierarchies**: User Type → Age Group → Gender, Year → Quarter → Month → Day, City → Station Name, etc.
+- **Hierarchies**: User Type → Subscription, Year → Quarter → Month → Day, City → Station Name.
 - **Measures**: Trip Count, Total Revenue, Bike Utilization Rate, Average Trip Duration, Subscription Revenue, and more.
 
 ## 📊 Dashboards
@@ -40,13 +35,6 @@ We’ll develop dashboards that provide insights on:
 - **Bike Usage and Maintenance Performance** 🚴‍♂️🔧
 - **Station Utilization and Capacity** 🚏📍
 - **Revenue and Financial Metrics** 💰📈
-- **Weather Impact on Bike Usage** ☀️🌧️
 
 ## 🛠️ Technologies
 - **On-Premise**: Talend for ETL, PostgreSQL for initial data storage.
-- **Cloud**: Azure Data Factory, Azure Synapse Analytics, Azure SQL Database, and Power BI for analytics.
-
-## 📅 Project Timeline
-1. **Phase 1**: Data Warehouse Design & On-Premise Integration with Talend *(Current Phase)*.
-2. **Phase 2**: Migration to Azure Cloud.
-3. **Phase 3**: Dashboard Development & Project Wrap-up.
