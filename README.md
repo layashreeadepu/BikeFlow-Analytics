@@ -1,7 +1,7 @@
 # 🚲 BikeShare Data Warehouse Project
 
 ## 📖 Overview
-Welcome to the **BikeShare Data Warehouse Project**! This is an ongoing project for the **Fall 2024 semester**, where we aim to build a comprehensive, fully-functional data warehouse for a bike-sharing service. The project will initially be implemented on-premise, integrating and processing data using **Talend**. Later, we will migrate the entire system to **Azure Cloud** to leverage cloud-based tools and scale our data operations.
+Welcome to the **BikeShare Data Warehouse Project**! to build a data warehouse for a bike-sharing service company. The project will be implemented on-premise, integrating and processing data using **Talend**.
 
 ## 🎯 Project Objectives
 Our primary goals are:
