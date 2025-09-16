@@ -7,7 +7,6 @@ Welcome to the **BikeShare Data Warehouse Project**! to build a data warehouse f
 Our primary goals are:
 - 🏗️ **Designing and implementing** a detailed data warehouse to manage and analyze bike-sharing data.
 - 🔄 **Integrating multiple data sources** on-premise, using Talend for ETL (Extract, Transform, Load) processes.
-- ☁️ **Migrating the data warehouse to Azure Cloud**, leveraging cloud services for better scalability and advanced analytics.
 - 📊 **Developing interactive dashboards** to provide insights into user behavior, bike usage, station performance, and financial metrics.
 
 ## 🧩 Project Components
